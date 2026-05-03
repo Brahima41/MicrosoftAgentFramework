@@ -1,6 +1,6 @@
 # Pipeline d'analyse de tickets support à traiter
 
-Système de traitement automatisé de tickets support utilisant **MAF (Microsoft Agents Framework)**, **MCP (Model Context Protocol)** et **Ollama**
+Ce projet est un système de traitement automatisé de tickets support utilisant **MAF (Microsoft Agents Framework)**, **MCP (Model Context Protocol)** et **Ollama**
 pour orchestrer un workflow d'agents intelligents.
 
 ## Description
